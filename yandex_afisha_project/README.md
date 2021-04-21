@@ -40,6 +40,8 @@
 ## Используемые библиотеки
 *pandas*,
  
-*matplotlib*
-*numpy*
+*matplotlib*,
+
+*numpy*,
+ 
 *seaborn*
